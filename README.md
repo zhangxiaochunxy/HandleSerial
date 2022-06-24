@@ -1,4 +1,9 @@
 # HandleSerial
+
+下载代码并且如下引入
+
+`import HandleSerial from './HandleSerial.js'`
+
 对navigator.serial进行一个封装，保证我们可以快速的对接串口设备。
 
 以下是一些常用方法， 具体使用方法参考[Web Serial API读写数据实战
